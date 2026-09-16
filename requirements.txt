@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+optuna
+mlflow
+fastapi
+uvicorn
+pydantic
+gradio
+joblib
+great_expectations==0.18.21
+pytest
